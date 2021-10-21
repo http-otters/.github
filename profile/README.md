@@ -1,3 +1,4 @@
-# 🦦 › Http-otters.
+# 🦦 › HTTP Otters.
 
-<h2>A simple HTTP otter api!</h2>
+### A simple **API** for **HTTP Otters**!
+#### 🦦 › HTTP Otters ❤ Open Source.
